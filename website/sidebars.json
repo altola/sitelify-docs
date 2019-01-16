@@ -1,0 +1,6 @@
+{
+  "docs": {
+    "The Basics": ["getting-started", "install", "deploy"],
+    "Guides": ["product-overview"]
+  }
+}
