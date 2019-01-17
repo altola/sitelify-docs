@@ -28,9 +28,9 @@ const siteConfig = {
   headerLinks: [],
 
   /* path to images for header/footer */
-  headerIcon: 'docs/img/sitelify.svg',
-  footerIcon: 'docs/img/sitelify.svg',
-  favicon: 'docs/img/sitelify-32x32.png',
+  headerIcon: 'img/sitelify.svg',
+  footerIcon: 'img/sitelify.svg',
+  favicon: 'img/sitelify-32x32.png',
 
   /* Colors for website */
   colors: {
@@ -50,9 +50,6 @@ const siteConfig = {
     ]
   },
 
-  stylesheets: [
-    "/docs/css/custom.css"
-  ],
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Altola`,
 
@@ -70,8 +67,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'docs/img/sitelify.svg',
-  twitterImage: 'docs/img/sitelify.svg',
+  ogImage: 'img/sitelify.svg',
+  twitterImage: 'img/sitelify.svg',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
