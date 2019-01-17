@@ -51,7 +51,7 @@ const siteConfig = {
   },
 
   stylesheets: [
-    "/docs/css/custom.css"
+    "docs/css/custom.css"
   ],
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Altola`,
