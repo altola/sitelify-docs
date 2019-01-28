@@ -1,6 +1,6 @@
 {
   "docs": {
-    "The Basics": ["getting-started", "install", "deploy"],
+    "The Basics": ["getting-started", "prerequisites", "jss-app-prep", "get-access-token", "install", "deploy"],
     "Guides": ["product-overview"]
   }
 }

@@ -1,9 +1,9 @@
 ---
 id: deploy
-title: Deploying to Netlify
-sidebar_label: Deploying to Netlify
+title: Step 4. Deploying to Netlify
+sidebar_label: Step 4. Deploying to Netlify
 ---
-## Create Sitelify site
+## Step 4.1 Create Sitelify site
 
 Sitelify site is needed to configure the mapping of a JSS application to Netlify.
 
@@ -25,7 +25,7 @@ Sitelify site is needed to configure the mapping of a JSS application to Netlify
 
     ![Item created](assets/add-sitelify-site-item-created.png)
 
-## Create Netlify site
+## Step 4.2 Create Netlify site
 
 In order to deploy a JSS application to Netlify, a site must exist in Netlify. 
 A new Netlify site can be created using the Sitelify Manager application.
@@ -44,7 +44,7 @@ A new Netlify site can be created using the Sitelify Manager application.
 
     ![Netlify site selected](assets/add-sitelify-site-netlify-site-selected.png)
 
-## Configure Sitelify site
+## Step 4.3 Configure Sitelify site
 
 The purpose of the Sitelify site is to map information from a JSS application to a Netlify site.
 The various fields on the Sitelify site item allow you to control this mapping.
@@ -61,7 +61,7 @@ Sitecore API Key | Yes | <p>API key that the JSS application is configured to us
 Sitecore Instance Host Name | No | <p>Host name used for content extraction.</p><p>You should use the host name for your Sitecore content management server, or the host name that is assigned to the Sitecore site selected in the field *Sitecore Site Name*.</p>
 App Bundle Folder | No | <p>Needed for JSS applications built using Angular.</p>
 
-## Deploy JSS application
+## Step 4.4 Deploy JSS application
 
 After you have configured all of the required fields on the Sitelify site item you are ready to deploy the JSS application to Netlify.
 
